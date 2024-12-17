@@ -6,3 +6,5 @@ This repo contains docker compose to run kafka with schema registry and ui with 
 ```
 docker compose up -d
 ```
+
+Open kafka ui at: http://localhost:8080
